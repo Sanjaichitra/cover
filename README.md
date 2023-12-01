@@ -148,7 +148,8 @@ html>
 
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-12-01 145246.png>)
+![Screenshot 2023-12-01 145246](https://github.com/Sanjaichitra/cover/assets/144870518/b7ade68a-9492-4d07-abcc-b81b0a7f9e84)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
